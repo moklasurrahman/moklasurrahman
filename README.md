@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##🧑‍💻 About Me:
+
+
+###🧑‍💻 About Me:
 
 <p> I am Moklasur Rahman and I'm passionate about all thing full-stack development. I care about writing
 clean code and genuinely love to learn. Want to build up my career in IT development so intend to work
@@ -23,7 +25,7 @@ in a challenging competitive environment which will provide me with the opportun
 talent and to utilize the hidden potentials within myself so that the organization can reap maximum
 benefit up to the level of satisfaction. </p>
 
-## 🧑‍💻 My Skills:
+### 🧑‍💻 My Skills:
 
 
 
