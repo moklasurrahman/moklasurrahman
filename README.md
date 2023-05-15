@@ -1,5 +1,8 @@
 ### Hello, I'm Moklasur Rahman 👋
 
+<hr/>
+
+
 <!--
 **moklasurrahman/moklasurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://media.licdn.com/dms/image/C5616AQHqRABRDtBLsg/profile-displaybackgroundimage-shrink_350_1400/0/1661686599582?e=1689811200&v=beta&t=ykAWBnb0YRQLsS5zK7ZVa-_mSXmFd9GJ7RxQmCBkEWM)
 
 
-###🧑‍💻 About Me:
+
+### 🧑‍💻 About Me:
 
 <p> I am Moklasur Rahman and I'm passionate about all thing full-stack development. I care about writing
 clean code and genuinely love to learn. Want to build up my career in IT development so intend to work
@@ -26,6 +31,10 @@ talent and to utilize the hidden potentials within myself so that the organizati
 benefit up to the level of satisfaction. </p>
 
 ### 🧑‍💻 My Skills:
+
+
+
+
 
 
 
